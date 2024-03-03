@@ -1,4 +1,4 @@
-# Validador de CPF
+# Validador de CPF 🔢
 
 Este incrível script em Python permite que você valide rapidamente um CPF digitado. É como ter um verificador de CPF instantâneo!
 
